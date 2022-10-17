@@ -1,0 +1,233 @@
+h1{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    -webkit-text-stroke: 1px black;
+    font-family: Futura;
+}
+
+
+nav{
+    padding:30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+   
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-flex;
+    margin: 4px 15px;
+    text-decoration: none;
+    font-family: Futura;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    transition: 0.3s;
+}
+nav ul li a:hover{
+    color: blueviolet;
+}
+.abc{
+    text-align: center;
+    font-family: Futura;
+    color: white;
+    margin-top: 120px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+    -webkit-text-stroke: 2px black;
+    
+}
+.fff{
+    
+    font-family: Futura;
+    color: #B30E33;
+}
+.ggg{
+    font-family: Futura;
+    color: #25668F ;
+}
+.hhh{
+    font-family: Futura;
+    color: #BFA1AA ;
+}
+h3{
+    text-align: center;
+    font-family: Futura;
+    margin-top: 400px;
+    margin-left: 50px;
+    margin-right: 30px;
+    -webkit-text-stroke: .2px black;
+}
+.aaa{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 30px;
+    background-color: #F6F6F6;
+    text-align: center;
+    font-weight: bold;
+    color: #B30E33;
+}
+.ooo{
+    background-color: #ffffff;
+}
+.xyz{
+    margin-top: 50px;
+}
+.card {
+    box-shadow: 0 3px 10px #efcbf8;
+    margin: 2px;
+    margin-left:10px ;
+    border-style: inset;
+    transition: 0.8s;
+    
+  }
+  h5{
+    color: black;
+   
+    font-style: italic;
+    font-family: Futura;
+  }
+  .zzz{
+   
+    margin-top: 30px;
+    background-image: url('boot.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+  }
+  .op{
+    display:flex ;
+    gap: 110px;
+    margin-top: 20px;
+    margin-bottom: 40px ;
+    
+    
+  }
+  h4{
+    font-family: monospace;
+  }
+ 
+  .cat{
+    background-image: url('https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_1253,c_limit/91f56663-2a06-4010-9af1-1961191c5231/nike-just-do-it.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+  }
+  .dog{
+    padding-top: 400px;
+  }
+  .fox{
+    background-image: url('https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_1253,c_limit/91f56663-2a06-4010-9af1-1961191c5231/nike-just-do-it.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+  }
+  h6{
+    color: purple;
+    font-weight: bold;
+  }
+  .crow{
+    background-image: url('https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_411,c_limit/9cf5c341-45ac-48df-8950-e31248580b8d/nike-just-do-it.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    transition: 0.8s;
+  }
+  .crow1{
+    background-image: url('https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_411,c_limit/0100f827-db4d-42a1-bfb8-06f5e894a9f1/nike-just-do-it.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    transition: 0.8s;
+  }
+  .crow2{
+    background-image: url('https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_411,c_limit/fd72ec37-91e5-4fc7-a5af-23bed934a2d6/nike-just-do-it.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    transition: 0.8s;
+  }
+  .fter{
+    
+    margin-top: 10px;
+    width: 100% ;
+    padding: 100px 15%;
+    background: #333;
+
+  }
+  .fter div{
+    text-align: center;
+  }
+  
+  .c1 a{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    text-align: left;
+    margin-right: 100px;
+   
+   
+  }
+  .c2 a{
+    
+      display: block;
+      text-decoration: none;
+      color: #efefef;
+      text-align: left;
+      margin-right: 100px;
+  
+  }
+  .c3 a{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    text-align: left;
+    margin-right: 100px;
+  }
+  .c4{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    text-align: left;
+    margin-right: 100px;
+  }
+  .c1 a:hover{
+    color: blueviolet;
+  }
+  .c2 a:hover{
+    color: blueviolet;
+  }
+  .c3 a:hover{
+    color: blueviolet;
+  }
+  .c4 i:hover{
+    color: blueviolet;
+  }
+  nav h1:hover{
+    color: blueviolet;
+  }
+  .card:hover{
+    transform: scale(1.04);
+   
+  }
+  .card i:hover{
+    transform: scale(1.2);
+    color: #B30E33;
+   
+  }
+  .crow:hover{
+    transform: scale(1.08);
+  }
+  .crow1:hover{
+    transform: scale(1.08);
+  }
+  .crow2:hover{
+    transform: scale(1.08);
+  }
+  
+
